@@ -1,0 +1,3 @@
+# idea_git
+idea中使用git同步项目到GitHub
+……
