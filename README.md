@@ -18,7 +18,7 @@
 
 * 右键项目`git` ,`add` 添加项目到本地暂存区。`commit` 提交项目到本地仓库。
 
-  * commit时，author处可以填上本地git仓库的用户名和邮箱，格式为
+  * commit时，author处填上本地git仓库的用户名和邮箱，格式为
 
     ```c
     dlt<qqnumber@qq.com>
